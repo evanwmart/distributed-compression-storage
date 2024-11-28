@@ -23,3 +23,7 @@ go.work.sum
 
 # env file
 .env
+
+chunk_storage/
+
+test_file.txt
